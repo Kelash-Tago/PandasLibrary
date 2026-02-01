@@ -1,0 +1,47 @@
+[
+  {
+    "StudentID": 101,
+    "Name": "Ali",
+    "Age": 20,
+    "Gender": "Male",
+    "Class": "BSCS",
+    "Marks": 85,
+    "City": "Lahore"
+  },
+  {
+    "StudentID": 102,
+    "Name": "Sara",
+    "Age": 22,
+    "Gender": "Female",
+    "Class": "BSIT",
+    "Marks": 90,
+    "City": "Karachi"
+  },
+  {
+    "StudentID": 103,
+    "Name": "John",
+    "Age": 21,
+    "Gender": "Male",
+    "Class": "BSCS",
+    "Marks": 78,
+    "City": "Islamabad"
+  },
+  {
+    "StudentID": 104,
+    "Name": "Ayesha",
+    "Age": 23,
+    "Gender": "Female",
+    "Class": "BSSE",
+    "Marks": 92,
+    "City": "Lahore"
+  },
+  {
+    "StudentID": 105,
+    "Name": "Usman",
+    "Age": 20,
+    "Gender": "Male",
+    "Class": "BSIT",
+    "Marks": 67,
+    "City": "Faisalabad"
+  }
+]
